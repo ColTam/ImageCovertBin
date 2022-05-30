@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>resource/images/close.png</file>
+        <file>resource/images/close_hover.png</file>
+        <file>resource/images/logo.png</file>
+        <file>resource/images/min.png</file>
+        <file>resource/images/min_hover.png</file>
+    </qresource>
+    <qresource prefix="/language">
+        <file>zh_CN.qm</file>
+    </qresource>
+</RCC>
